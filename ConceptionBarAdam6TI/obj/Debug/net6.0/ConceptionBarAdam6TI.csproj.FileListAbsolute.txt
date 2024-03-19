@@ -1,0 +1,14 @@
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\bin\Debug\net6.0\ConceptionBarAdam6TI.exe
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\bin\Debug\net6.0\ConceptionBarAdam6TI.deps.json
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\bin\Debug\net6.0\ConceptionBarAdam6TI.runtimeconfig.json
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\bin\Debug\net6.0\ConceptionBarAdam6TI.dll
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\bin\Debug\net6.0\ConceptionBarAdam6TI.pdb
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\obj\Debug\net6.0\ConceptionBarAdam6TI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\obj\Debug\net6.0\ConceptionBarAdam6TI.AssemblyInfoInputs.cache
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\obj\Debug\net6.0\ConceptionBarAdam6TI.AssemblyInfo.cs
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\obj\Debug\net6.0\ConceptionBarAdam6TI.csproj.CoreCompileInputs.cache
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\obj\Debug\net6.0\ConceptionBarAdam6TI.dll
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\obj\Debug\net6.0\refint\ConceptionBarAdam6TI.dll
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\obj\Debug\net6.0\ConceptionBarAdam6TI.pdb
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\obj\Debug\net6.0\ConceptionBarAdam6TI.genruntimeconfig.cache
+C:\Users\200537\source\repos\ConceptionBarAdam6TI\ConceptionBarAdam6TI\obj\Debug\net6.0\ref\ConceptionBarAdam6TI.dll
