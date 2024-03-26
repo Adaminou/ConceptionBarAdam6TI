@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\200537\\source\\repos\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI.csproj": {}
+    "C:\\Users\\200537\\Desktop\\xd\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\200537\\source\\repos\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI.csproj": {
+    "C:\\Users\\200537\\Desktop\\xd\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\200537\\source\\repos\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI.csproj",
+        "projectUniqueName": "C:\\Users\\200537\\Desktop\\xd\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI.csproj",
         "projectName": "ConceptionBarAdam6TI",
-        "projectPath": "C:\\Users\\200537\\source\\repos\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI.csproj",
+        "projectPath": "C:\\Users\\200537\\Desktop\\xd\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI.csproj",
         "packagesPath": "C:\\Users\\200537\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\200537\\source\\repos\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI\\obj\\",
+        "outputPath": "C:\\Users\\200537\\Desktop\\xd\\ConceptionBarAdam6TI\\ConceptionBarAdam6TI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\SOFT\\Microsoft Visual Studio\\Shared\\NuGetPackages"

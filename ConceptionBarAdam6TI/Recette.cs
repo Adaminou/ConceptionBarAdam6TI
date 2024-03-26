@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace ConceptionBarAdam6TI
 {
-    internal class Recette
+     class Recette
     {
-    }
+		private Portion[] _ingredients;
+
+		public Portion[] Ingredients
+		{
+			get { return _ingredients; }
+		}
+		public Recette(Portion[] ingredients)
+		{
+			_ingredients = ingredients;
+		}
+	}
 }
