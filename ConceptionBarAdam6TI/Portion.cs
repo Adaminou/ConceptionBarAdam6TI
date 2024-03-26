@@ -21,6 +21,10 @@ namespace ConceptionBarAdam6TI
 			get { return _quantite; }
 		}
 
-
+		public Portion(Liquide contenu, double quantite)
+		{
+			_contenu = contenu;
+			_quantite = quantite;
+		}
 	}
 }

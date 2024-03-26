@@ -19,11 +19,15 @@ namespace ConceptionBarAdam6TI
 		{
 			_prenom = prenom;
 		}
-		public bool Commander(Recette recette, out Cocktail cocktail)
+		public bool Commander(out Cocktail cocktail)
 		{
 
 		}
-		public Servir()
+		public bool Fabriquer(Cocktail cocktail)
+		{
+
+		}
+		public Servir(Cocktail cocktail)
 		{
 
 		}

@@ -20,5 +20,18 @@ namespace ConceptionBarAdam6TI
 		{
 			_bouteilles = bouteilles;
 		}
+		public bool PrendreBouteille(Liquide liquide, ref Bouteille bouteille)
+		{
+
+		}
+		public bool AjouterBouteille(Bouteille bouteille)
+		{
+
+		}
+		public string AfficheInventaireBar()
+		{
+
+		}
+
 	}
 }

@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConceptionBarAdam6TI
 {
-    internal class Strcuture_NbBouteille
+     class Strcuture_NbBouteille
     {
-    }
+		private Bouteille bouteille;
+
+		private uint nb;
+
+		
+
+	}
 }
